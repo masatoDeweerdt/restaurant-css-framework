@@ -1,10 +1,15 @@
 .container {
+
 }
 
-.row {
-    border: 1px solid black;
+.jumbotron {
+    height: 300px;    
 }
 
-.blue {
-   
+.lead {
+    font-size: 26px;
+}
+
+header {
+    background: url(cover.jpg);
 }
