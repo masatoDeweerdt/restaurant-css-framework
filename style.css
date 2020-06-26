@@ -51,10 +51,12 @@ img {
 
 .jumbotron {
     background-color: rgb(194, 194, 194);
+    padding: 20px 10px 0px 10px;
+    
 }
 
 .jumbotronheader {
-    height: 350px;
+    height: 300px;
     max-width: 100%;
     background-image: url(Pictures/spicy_tasty_food.jpg);
     color: white;
@@ -70,11 +72,22 @@ img {
 
 .titletwo {
     font-family: 'Amatic SC', cursive;
-    padding-top: 90px;
+    padding-top: 70px;
 
 }
 
 .nutshell {
-    font-size: 28px;
-    padding-top: ;
+    font-weight: 700;
+    font-family: 'Amatic SC', cursive;
 }
+
+.description {
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 26px;
+    padding: 15px 0 15px 0;
+}
+
+.menuButton {
+    float: right;
+}
+
