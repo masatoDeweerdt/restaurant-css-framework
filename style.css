@@ -1,15 +1,80 @@
+body {
+   background-color: rgb(49, 49, 49);
+}
+
 .container {
 
 }
 
-.jumbotron {
-    height: 300px;    
-}
+/* .jumbotron {
+    height: 172px;
+    margin-bottom: 0;
+    background-color: transparent; 
+    padding: 0;  
+} */
 
 .lead {
     font-size: 26px;
 }
 
+.panda {
+    height: 100%;
+    width: auto;
+    float: right;
+}
+
 header {
-    background: url(cover.jpg);
+    /* background: url(cover.jpg); */
+    padding: 0;
+}
+
+h1 {
+}
+
+nav {
+    color: white;
+}
+
+p {
+    font-family: 'Indie Flower', cursive;
+}
+
+img {
+    max-width: 100%;
+}
+
+.panda {
+    height: 40px;
+    float: left;
+    padding-right: 10px;
+}
+
+.jumbotron {
+    background-color: rgb(194, 194, 194);
+}
+
+.jumbotronheader {
+    height: 350px;
+    max-width: 100%;
+    background-image: url(Pictures/spicy_tasty_food.jpg);
+    color: white;
+    object-fit: cover;
+    opacity: 0.7;
+}
+
+.titleLogo {
+    font-family: 'Amatic SC', cursive;
+    letter-spacing: 3px;
+    font-size: 25px;
+}
+
+.titletwo {
+    font-family: 'Amatic SC', cursive;
+    padding-top: 90px;
+
+}
+
+.nutshell {
+    font-size: 28px;
+    padding-top: ;
 }
