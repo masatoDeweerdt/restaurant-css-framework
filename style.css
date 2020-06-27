@@ -3,7 +3,7 @@ body {
 }
 
 .container {
-
+    padding: 0;
 }
 
 /* .jumbotron {
@@ -51,12 +51,12 @@ img {
 
 .jumbotron {
     background-color: rgb(194, 194, 194);
-    padding: 20px 10px 0px 10px;
+    padding: 20px 30px 20px 30px;
     
 }
 
 .jumbotronheader {
-    height: 300px;
+    height: 240px;
     max-width: 100%;
     background-image: url(Pictures/spicy_tasty_food.jpg);
     color: white;
@@ -72,7 +72,7 @@ img {
 
 .titletwo {
     font-family: 'Amatic SC', cursive;
-    padding-top: 70px;
+    padding-top: 40px;
 
 }
 
@@ -83,11 +83,16 @@ img {
 
 .description {
     font-family: 'Open Sans Condensed', sans-serif;
-    font-size: 26px;
-    padding: 15px 0 15px 0;
+    padding: 10px 0 10px 0;
+    font-size: 24px;
+    margin-bottom: 0;
 }
 
-.menuButton {
-    float: right;
+.carousel {
+    padding-bottom: 12px;
+}
+
+button {
+    margin-bottom: 12px;
 }
 
