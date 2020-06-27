@@ -1,5 +1,5 @@
 body {
-   background-color: rgb(49, 49, 49);
+   background-color: rgb(0, 0, 0);
 }
 
 .container {
@@ -50,7 +50,7 @@ img {
 }
 
 .jumbotron {
-    background-color: rgb(194, 194, 194);
+    background-color: rgb(233, 206, 184);
     padding: 20px 30px 20px 30px;
     
 }
