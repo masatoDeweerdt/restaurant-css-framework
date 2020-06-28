@@ -5,6 +5,8 @@ body {
 .container {
     padding: 0;
 }
+
+
 .menuContainer {
     background-color: rgb(245, 220, 200);
     padding: 0px 15px 15px 15px;
@@ -85,23 +87,22 @@ img {
 
 }
 
-.menuTitle {
+.mainPageSecondTitle {
+    padding-left: 15px;
+}
+
+.secondTitle {
     font-family: 'Amatic SC', cursive;
     background-color: black;
     padding: 15px;
     color: white;
-    text-align: center;
-    
+    text-align: center;  
 }
 
-.nutshell {
-    font-weight: 700;
-    font-family: 'Amatic SC', cursive;
-}
 
 .description {
     font-family: 'Open Sans Condensed', sans-serif;
-    padding: 10px 0 10px 0;
+    padding: 10px 10px 10px 0;
     font-size: 24px;
     margin-bottom: 0;
 }
@@ -111,7 +112,7 @@ img {
 }
 
 button {
-    margin-bottom: 12px;
+    margin-bottom: 15px;
 }
 
 .price {
