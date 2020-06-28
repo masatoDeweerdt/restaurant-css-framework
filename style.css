@@ -5,7 +5,14 @@ body {
 .container {
     padding: 0;
 }
+.menuContainer {
+    background-color: rgb(245, 220, 200);
+    padding: 15px;
+}
 
+.list-group-item {
+    background-color: rgb(245, 220, 200);
+}
 /* .jumbotron {
     height: 172px;
     margin-bottom: 0;
@@ -96,3 +103,7 @@ button {
     margin-bottom: 12px;
 }
 
+.price {
+    text-align: right;
+    background-color: rgb(238, 164, 115);
+}
