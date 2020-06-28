@@ -36,18 +36,12 @@ h3 {
     float: right;
 }
 
-header {
-    /* background: url(cover.jpg); */
-    padding: 0;
+footer {
+    height: 240px;
 }
-
 
 nav {
     color: white;
-}
-
-p {
-    font-family: 'Indie Flower', cursive;
 }
 
 img {
@@ -107,6 +101,11 @@ img {
     margin-bottom: 0;
 }
 
+.footerDescription {
+    color: white;
+    margin-bottom: 5px;
+}
+
 .carousel {
     padding-bottom: 12px;
 }
@@ -118,4 +117,20 @@ button {
 .price {
     text-align: right;
     background-color: rgb(238, 164, 115);
+}
+
+.badge {
+    float: right;
+}
+
+.socialMedia {
+    list-style: none;
+    text-align: center;
+    color: white;
+    font-size: 22px;
+    padding-right: 26px;
+}
+
+.footerDescription {
+    color: white;
 }
