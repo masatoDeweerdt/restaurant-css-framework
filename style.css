@@ -2,8 +2,16 @@ body {
    background-color: rgb(0, 0, 0);
 }
 
+#carouselExampleControls {
+    width: 80%;
+}
+
 .container {
     padding: 0;
+}
+
+.vitrine {
+    border-radius: 1px;
 }
 
 
@@ -131,6 +139,9 @@ button {
     padding-right: 26px;
 }
 
-.footerDescription {
-    color: white;
+footer {
+}
+
+.myName {
+    padding-bottom: 10px;
 }
