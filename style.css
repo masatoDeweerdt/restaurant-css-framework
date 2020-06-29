@@ -145,3 +145,7 @@ footer {
 .myName {
     padding-bottom: 10px;
 }
+
+.page {
+    background-color : rgb(245, 220, 200);
+}
