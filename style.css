@@ -149,3 +149,13 @@ footer {
 .page {
     background-color : rgb(245, 220, 200);
 }
+
+.openingHours {
+    list-style: none;
+    color: white;
+    padding-left: 0px;
+}
+
+.addressContent {
+    padding: 20px 0px 20px 0px;
+}
