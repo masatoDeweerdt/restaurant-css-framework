@@ -10,11 +10,6 @@ body {
     padding: 0;
 }
 
-/* .vitrine {
-    border-radius: 1px;
-    margin-bottom: 0;
-} */
-
 .menuContainer {
     background-color: rgb(245, 220, 200);
     padding: 0px 15px 15px 15px;
@@ -118,10 +113,6 @@ img {
 
 button {
     margin-bottom: 15px;
-}
-
-.menuButton {
-
 }
 
 .price {
