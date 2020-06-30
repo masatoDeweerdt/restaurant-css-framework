@@ -32,6 +32,8 @@ Historique simplifié :
 
 Lien vers le site : [Version V1](https://masatodeweerdt.github.io/restaurant-css-framework/.)
 
+crédits images : Pixabay, Pexels, freeimages, Google.
+
 ![V1 Screenshot](/screenshots/V1.jpg)
 
 crédits images : Pixabay, Pexels, freeimages, Google.
