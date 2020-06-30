@@ -2,7 +2,10 @@
 
 Ceci est un projet solo dans le cadre de la formation web dev chez BeCode.
 
-### Mission :
+## Mission
+*********************************************************************************************************
+
+[consigne](https://github.com/becodeorg/BXL-Swartz-3-21/blob/master/03-HTML-CSS/bootstrap/restaurant.adoc) 
 
 Création d'un site pour un restaurant *fictif* à l'aide du **framework** *Bootstrap*.
 
