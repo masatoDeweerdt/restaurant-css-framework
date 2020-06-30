@@ -10,13 +10,13 @@ Autheur du projet : Masato Deweerdt
 
 Langages utilisés :
 
-* HTML5
-* CSS5
-* BOOTSTRAP 4
+* **HTML5**
+* **CSS5**
+* **BOOTSTRAP 4**
 
 Ressources utilisées pour la création du site :
 
-[w3school](https://www.w3schools.com/)
+[w3school](https://www.w3schools.com/)  
 [Documentation Bootstrap 4](https://getbootstrap.com/docs/4.1/getting-started/introduction/)
 
 Historique simplifié :
