@@ -70,7 +70,7 @@ img {
 }
 
 .jumbotronheader {
-    background-image: url(Pictures/spicy_tasty_food.jpg);
+    background-image: url(../images/header/spicy_tasty_food.jpg);
     height: 240px;
     max-width: 100%;
     color: white;
@@ -167,4 +167,9 @@ footer {
     margin-top: 32px;
     margin-bottom: 26px;
     
+}
+
+.contactForm {
+    background-color: rgb(245, 220, 200);
+    padding: 20px;
 }
