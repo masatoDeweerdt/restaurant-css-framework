@@ -8,7 +8,7 @@ Ceci est un projet solo dans le cadre de la formation web dev chez BeCode.
 
 Création d'un site pour un restaurant *fictif* à l'aide du **framework** *Bootstrap*.
 
-Autheur du projet : **Masato Deweerdt**
+Auteur du projet : **Masato Deweerdt**
 
 Langages utilisés :
 
